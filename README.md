@@ -13,6 +13,7 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
+* [References](#references)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -20,6 +21,8 @@
 ## General Information
 - Use jupyter-notebook with ASE to make supercell, slabs and all kind of structures from experimental unit cell of perovskites 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Building structures
 
 
 ## Codes Used
@@ -69,16 +72,16 @@ To do:
 - Feature to be added 1
 - Feature to be added 2
 
-
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+
+## References
+- Constantinos C. Stoumpos, Christos D. Malliakas, and Mercouri G. Kanatzidis CCDC 968118: Experimental Crystal Structure Determination, 2013, DOI: 10.5517/cc11hdmk
+- 
 - Many thanks to...
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@paramvir]() - feel free to contact me!
 
 
 <!-- Optional -->
