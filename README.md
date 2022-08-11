@@ -1,12 +1,12 @@
 ## Slab-calculations-perovskites-with-molecules
 * [General info](#general-info)
-* [Juputer-notebooks with ase](#ase for building structures)
-* [Setup](#vasp set-up for AIIDA)
+* [Building structures](#building-structures)
+* [Setup](#setup)
 
 ## General info
 * Use jupyter-notebook with ase to make supercell, slabs of perovskites 
 	
-## Juputer-notebooks with ase
+## Building structures
 Project is created with:
 * ASE: 
 * Jupyter-notebooks: 
