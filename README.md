@@ -1,6 +1,6 @@
 # Project Name
 > Surface slab calculations for halide perovskites
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_]
 
 ## Table of Contents
 * [General Info](#general-information)
