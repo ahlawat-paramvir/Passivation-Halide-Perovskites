@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-* Use jupyter-notebook with ase to make supercell, slabs of perovskites 
+* Use jupyter-notebook with ASE to make supercell, slabs and all kind of structures from experimental unit cell of perovskites 
 	
 ## Building structures
 Project is created with:
