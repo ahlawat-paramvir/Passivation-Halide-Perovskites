@@ -55,7 +55,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / 
+Project is: _in progress_ 
 
 
 ## Room for Improvement
